@@ -1,4 +1,4 @@
-# Adversarial Process Framework v1.7 — Operator Playbook
+# Builder-Challenger Protocol v1.7 — Operator Playbook
 
 Use this when you are actually running the framework live.
 

@@ -1,4 +1,4 @@
-# Adversarial Process Framework v1.7 — Test Sheet
+# Builder-Challenger Protocol v1.7 — Test Sheet
 
 Use one copy of this sheet per test run.
 

@@ -1,5 +1,6 @@
-# Adversarial Process Framework
+# Builder-Challenger Protocol
 ### Version 1.7 — April 24, 2026
+### Formerly the Adversarial Process Framework (v1.5 to v1.7)
 ### Author: Heith Murray (v1.5); refined with AI assistance and external review (v1.6, v1.7)
 ### License: CC BY 4.0 (see LICENSE)
 

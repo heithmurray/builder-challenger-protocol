@@ -1,4 +1,4 @@
-# Adversarial Process Framework v1.7 — Prompt Pack
+# Builder-Challenger Protocol v1.7 — Prompt Pack
 
 Use these as the copy-paste starters.
 
@@ -83,7 +83,7 @@ Your goal is to expose the most dangerous truth.
 
 ## 3) Operator Topic Start Prompt
 
-We are running **Adversarial Process Framework v1.7**.
+We are running **Builder-Challenger Protocol v1.7**.
 
 Roles:
 - Builder: `[BUILDER_MODEL]`

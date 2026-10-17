@@ -1,6 +1,6 @@
-# Adversarial Process Framework
+# Builder-Challenger Protocol
 
-**Version 1.7.** A structured way to make two AI models stress-test each other's work, with one human making every final call.
+**Version 1.7** (formerly the Adversarial Process Framework). A structured way to make two AI models stress-test each other's work, with one human making every final call.
 
 One model builds. The other attacks. They loop, in a fixed format, until real agreement is reached. The human (the Operator) manages handoffs and decides go or no-go.
 
@@ -55,4 +55,4 @@ You may share and adapt it for any purpose, including commercial use, as long as
 
 A suggested credit line:
 
-> Adversarial Process Framework by Heith Murray, licensed under CC BY 4.0. https://github.com/heithmurray/adversarial-process-framework
+> Builder-Challenger Protocol by Heith Murray, licensed under CC BY 4.0. https://github.com/heithmurray/builder-challenger-protocol
