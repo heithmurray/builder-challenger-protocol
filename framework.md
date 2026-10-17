@@ -1,6 +1,7 @@
 # Adversarial Process Framework
 ### Version 1.7 — April 24, 2026
 ### Author: Heith Murray (v1.5); refined with AI assistance and external review (v1.6, v1.7)
+### License: CC BY 4.0 (see LICENSE)
 
 ---
 

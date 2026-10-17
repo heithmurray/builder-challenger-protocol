@@ -43,4 +43,16 @@ This is v1.7 (April 24, 2026). Each file lists what changed from v1.6.
 
 ## License
 
-[[LICENSE TBD: to be chosen before publishing]]
+Copyright (c) 2026 Heith Murray.
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The full text is in [LICENSE](LICENSE).
+
+You may share and adapt it for any purpose, including commercial use, as long as you:
+
+- give appropriate credit,
+- link to the license, and
+- indicate whether you made changes.
+
+A suggested credit line:
+
+> Adversarial Process Framework by Heith Murray, licensed under CC BY 4.0. https://github.com/heithmurray/adversarial-process-framework
